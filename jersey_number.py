@@ -9,7 +9,7 @@ print("Welcome to the BrickBreakers basketball team! Here, you will enter in you
 roster = []
 
 for i in range(11):
-    jersey = randint(1, 24)
+    jersey = randint(1, 50)
     name = input("What is your name? ")
     height = input("Now what is your height, in feet and inches? ")
     weight = int(input("Tell us your weight: "))
