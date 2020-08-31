@@ -14,7 +14,7 @@ wrestler5 = Champion('SmackDown Women\'s Champion', 'Bayley')
 wrestler6 = Champion('RAW Tag Team Champions', 'The Street Profits')
 wrestler7 = Champion('SmackDown Tag Team Champions', 'Cesaro and Shinsuke Nakamura')
 wrestler8 = Champion('Women\'s Tag Team Champions', 'Shayna Baszler and Nia Jax')
-wrestler247 = Champion('24\\7 Champion', 'Akira Tozawa')
+wrestler247 = Champion('24/7 Champion', 'Akira Tozawa')
 
 wwe_champ = {}
 
